@@ -8,8 +8,8 @@ Make sure:
 
 The code in this repository is enriched with explanation via comments
 
- - Windows users should use `main.windows.tf`
- - Linux/Mac users should use `main.linux.tf`
+ - Windows users should use `basic/windows/main.tf`
+ - Linux/Mac users should use `basic/linux/main.tf`
 
 The code in this simple Terraform usage is sourced from [official Terraform getting-started guide](https://learn.hashicorp.com/tutorials/terraform/docker-build?in=terraform/docker-get-started)
 

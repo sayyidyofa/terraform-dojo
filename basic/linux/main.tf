@@ -1,5 +1,5 @@
-// The code here is almost identical with main.windows.tf
-// More brief explanation can be found at main.windows.tf
+// The code here is almost identical with basic/windows/main.tf
+// More brief explanation can be found at basic/windows/main.tf
 
 terraform {
   required_providers {
