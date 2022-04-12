@@ -1,4 +1,4 @@
-### ###dont use the default `private_key` placeholder. IT is###
+### ###dont use the default keypair placeholder. It is intended to be a valid example only###
 # Dojo Terraform
 
 # Advanced usage of Terraform: An example use-case
